@@ -18,6 +18,8 @@ At the moment, it can provide the following information:
 * Time spent in each training zone
 * Session Score
 
-It also allows to make a graph of the heart rate training zones during a session.
+It also allows to make 2 graphs showing the heart rate training zones during a session.
 
 ![Matplotlib Output](matplotlib-output.PNG)
+
+![Matplotlib Output](matplotlib-output2.PNG)
